@@ -9,5 +9,7 @@ Um zu zeigen, dass ich PHP probiert habe, finden Sie nun ZWEI Ordner hier im Git
 
 für Java-Script Z. 25-32: https://chat.openai.com/ (genutzt im Zeitraum 08.-12.02)
 
+
+Freundliche Grüße
 Gunnar Brunkhorst
 Matrikel-Nr.: 1133071
